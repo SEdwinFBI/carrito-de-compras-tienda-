@@ -1,0 +1,33 @@
+.footer{
+
+    
+}
+@media (min-width: 600px) {
+    .footer-contenido {
+        display: flex;
+    
+        justify-content: space-between;
+    }
+    .politicas{
+        width: 30%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+}
+.texto {
+    
+    text-decoration: none;
+color: white;
+}
+.footer-contenido {
+    padding-top:10px;
+    background: rgb(115,27,173);
+background: linear-gradient(156deg, rgba(115,27,173,1) 0%, rgba(33,31,66,1) 42%);
+    
+display: flex;
+
+
+  
+}
+

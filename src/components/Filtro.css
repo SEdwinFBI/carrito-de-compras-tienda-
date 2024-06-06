@@ -1,0 +1,27 @@
+
+.filtros{
+    display: grid;
+    justify-content: center;
+    gap: 1.2rem;
+
+
+  
+    
+}
+
+.filtro{
+display: flex;
+}
+
+@media (min-width: 600px) {
+    .filtros{
+        display: flex;
+        justify-content: center;
+        gap: 5rem;
+        
+    }
+    .filtros > div{
+        gap: 2rem;
+        
+    }
+}

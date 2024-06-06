@@ -7,6 +7,9 @@
     justify-content: center;
     align-items: center;
     color: var(--colorLetra);
+    width: 99%;
+    min-height: 30rem;
+
 
   
 }
@@ -26,11 +29,13 @@
 
 .productos li{
     width: 15rem;
+    height: auto;
+    
     padding-bottom:10px;
-    padding-top: 10px;
+    padding-top: 15px;
     display: flex;
     flex-direction: column;
-    background-color: black;
+    background-color:  rgba(33,31,66,1);
     align-items: center;
     justify-content: center;
     border-radius: 10px;
@@ -38,3 +43,14 @@
     margin: 10px 10px 10px ;
 }
 
+.btn{
+    background-color: rgb(170, 37, 182);
+}
+
+.btn:hover{
+    background-color: rgb(89, 26, 95);
+}
+
+.titulo{
+    height: 3rem;
+}

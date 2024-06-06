@@ -107,7 +107,7 @@
        },
        {
           "id":7,
-          "title":"Samsung Galaxy Book",
+          "title":"Galaxy Book",
           "description":"Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
           "price":1499,
           "discountPercentage":4.15,
@@ -115,7 +115,7 @@
           "stock":50,
           "brand":"Samsung",
           "category":"laptops",
-          "thumbnail":"https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+          "thumbnail":"https://m.media-amazon.com/images/I/61t8BoU1lFS._AC_SL1440_.jpg",
           "images":[
              "https://i.dummyjson.com/data/products/7/1.jpg",
              "https://i.dummyjson.com/data/products/7/2.jpg",
@@ -133,7 +133,7 @@
           "stock":94,
           "brand":"Apple",
           "category":"smartphones",
-          "thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+          "thumbnail":"https://www.muycomputer.com/wp-content/uploads/2019/12/iPhoone-8-iPhone-9.jpg",
           "images":[
              "https://i.dummyjson.com/data/products/1/1.jpg",
              "https://i.dummyjson.com/data/products/1/2.jpg",
@@ -152,7 +152,7 @@
           "stock":68,
           "brand":"Microsoft Surface",
           "category":"laptops",
-          "thumbnail":"https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+          "thumbnail":"https://i.ebayimg.com/thumbs/images/g/o9IAAOSwruNlxVNp/s-l1200.jpg",
           "images":[
              "https://i.dummyjson.com/data/products/8/1.jpg",
              "https://i.dummyjson.com/data/products/8/2.jpg",
@@ -171,7 +171,7 @@
           "stock":96,
           "brand":"Infinix",
           "category":"laptops",
-          "thumbnail":"https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+          "thumbnail":"https://www.notebookcheck.org/uploads/tx_nbc2/InfinixInBookX1.JPG",
           "images":[
              "https://i.dummyjson.com/data/products/9/1.jpg",
              "https://i.dummyjson.com/data/products/9/2.png",
@@ -190,7 +190,7 @@
           "stock":89,
           "brand":"HP Pavilion",
           "category":"laptops",
-          "thumbnail":"https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+          "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwEmgJemHkUmA5RHTuu92EcZZeo6bEdpF2MA&s",
           "images":[
              "https://i.dummyjson.com/data/products/10/1.jpg",
              "https://i.dummyjson.com/data/products/10/2.jpg",
@@ -208,7 +208,7 @@
           "stock":65,
           "brand":"Impression of Acqua Di Gio",
           "category":"fragrances",
-          "thumbnail":"https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+          "thumbnail":"https://static.sweetcare.pt/img/prd/488/v-638200522188376164/giorgio-armani-015556gi_02.jpg",
           "images":[
              "https://i.dummyjson.com/data/products/11/1.jpg",
              "https://i.dummyjson.com/data/products/11/2.jpg",
@@ -226,7 +226,7 @@
           "stock":52,
           "brand":"Royal_Mirage",
           "category":"fragrances",
-          "thumbnail":"https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+          "thumbnail":"https://m.media-amazon.com/images/I/51Uoc0YWeCL.jpg",
           "images":[
              "https://i.dummyjson.com/data/products/12/1.jpg",
              "https://i.dummyjson.com/data/products/12/2.jpg",
@@ -245,7 +245,7 @@
           "stock":61,
           "brand":"Fog Scent Xpressio",
           "category":"fragrances",
-          "thumbnail":"https://i.dummyjson.com/data/products/13/thumbnail.webp",
+          "thumbnail":"https://admin.hyperce.io/assets/1__03__preview.jpg?w=800",
           "images":[
              "https://i.dummyjson.com/data/products/13/1.jpg",
              "https://i.dummyjson.com/data/products/13/2.png",
@@ -256,7 +256,7 @@
        },
        {
           "id":14,
-          "title":"Non-Alcoholic Concentrated Perfume Oil",
+          "title":"Concentrated Perfume Oil",
           "description":"Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
           "price":120,
           "discountPercentage":15.6,
@@ -264,7 +264,7 @@
           "stock":114,
           "brand":"Al Munakh",
           "category":"fragrances",
-          "thumbnail":"https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+          "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxmf3KmAjaumJAszi9GmM-xj4iULEKpy_V-w&s",
           "images":[
              "https://i.dummyjson.com/data/products/14/1.jpg",
              "https://i.dummyjson.com/data/products/14/2.jpg",
@@ -282,7 +282,7 @@
           "stock":105,
           "brand":"Lord - Al-Rehab",
           "category":"fragrances",
-          "thumbnail":"https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+          "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuB7k29y3y4R0syH_XObqeMrK_IbgHg9jAig&s",
           "images":[
              "https://i.dummyjson.com/data/products/15/1.jpg",
              "https://i.dummyjson.com/data/products/15/2.jpg",
@@ -301,7 +301,7 @@
           "stock":110,
           "brand":"L'Oreal Paris",
           "category":"skincare",
-          "thumbnail":"https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+          "thumbnail":"https://m.media-amazon.com/images/I/51c5bV1k-NL._SL1200_.jpg",
           "images":[
              "https://i.dummyjson.com/data/products/16/1.png",
              "https://i.dummyjson.com/data/products/16/2.webp",
@@ -320,7 +320,7 @@
           "stock":78,
           "brand":"Hemani Tea",
           "category":"skincare",
-          "thumbnail":"https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+          "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO0ODgTEzpWMIGPbyesvWQTFCY_VBeSqbbTQ&s",
           "images":[
              "https://i.dummyjson.com/data/products/17/1.jpg",
              "https://i.dummyjson.com/data/products/17/2.jpg",
@@ -338,7 +338,7 @@
           "stock":88,
           "brand":"Dermive",
           "category":"skincare",
-          "thumbnail":"https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+          "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTW5u3ODPJawUecNfeniNlqesR2elhrOaHsA&s",
           "images":[
              "https://i.dummyjson.com/data/products/18/1.jpg",
              "https://i.dummyjson.com/data/products/18/2.jpg",
@@ -357,7 +357,7 @@
           "stock":54,
           "brand":"ROREC White Rice",
           "category":"skincare",
-          "thumbnail":"https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+          "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVCJ-01U_Qac7UYQ9SI1ElILPVB7MENslFA&s",
           "images":[
              "https://i.dummyjson.com/data/products/19/1.jpg",
              "https://i.dummyjson.com/data/products/19/2.jpg",
