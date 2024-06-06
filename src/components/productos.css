@@ -1,0 +1,40 @@
+:root{
+    --colorLetra: white;
+
+}
+.productos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--colorLetra);
+
+  
+}
+.productos ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.producto-img img{
+ width: 13rem;
+    height: 13rem;
+   object-fit:cover ;
+   border-radius: 5px;
+    
+}
+
+
+.productos li{
+    width: 15rem;
+    padding-bottom:10px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+    margin: 10px 10px 10px ;
+}
+
