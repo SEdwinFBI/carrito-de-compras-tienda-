@@ -1,10 +1,10 @@
 import React from 'react'
 import {Filtro} from './Filtro.jsx'
 
-export const Filtros = () => {
+export const Filtros = ({filtro}) => {
   return (
     <section>
-        <Filtro/>
+        <Filtro cargarFiltro = {filtro}/>
     </section>
 
   )

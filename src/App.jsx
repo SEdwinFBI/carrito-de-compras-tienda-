@@ -13,15 +13,16 @@ function App() {
   const [products] = useState(initProducts)
   const [filtro,setFiltro] =useState({
     category:'all',
-    minPrecio:0
+    maxPrecio:2000
   })
 
   const productosFiltrados = (products)=>{
     return products.filter(product => {
       return (
-        product.price >= filtro.minPrecio &&
-        (filtro.category === 'all'||
-          product.category === filtro.category
+        //el precio es mayor o igual a precio minimo
+        product.price <= filtro.maxPrecio &&
+        (filtro.category === 'all'|| //devuelve toda la categoria si el filtro esta en todo
+          product.category === filtro.category //sino el filtro puesto
         )
       )
     })
@@ -32,8 +33,8 @@ function App() {
     <>
     <Nav/>
       <h1>Eligue tu producto</h1>
-      <p>Carrito de compras v.1</p>
-      <Filtros/>
+      <p>Carrito de compras En desarrollo</p>
+      <Filtros filtro={setFiltro}/>
       <div className='contenido'>
       <Productos products={productoFiltrado}/>
       </div>
